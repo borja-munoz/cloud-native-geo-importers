@@ -26,7 +26,7 @@ cd /path/to/script/folder
 source bin/activate
 pip install boto3
 pip install fiona
-pip install shapely
+pip install shapely==1.8.5
 ```
 
 The script can be executed standalone or used as a module from another script/program. It requires the following parameters:
