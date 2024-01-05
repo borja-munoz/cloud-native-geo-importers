@@ -1,7 +1,8 @@
 repo_name: borja-munoz/cloud-native-geo-importers
 report_id: a514e517cd05d6f002d6a4364d60b38f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T11:38:22+00:00'
+timestamp: '2024-01-05T08:54:36+00:00'
 requested_by: borja-munoz
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/borja-munoz/cloud-native-geo-importers
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/borja-munoz/cloud-native-geo-importers
   detection_source: Repo Metadata
